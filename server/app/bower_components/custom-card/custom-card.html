@@ -1,0 +1,216 @@
+<!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'> -->
+<template id="custom-card">
+  <style>
+  :host{
+    
+    display: inline-block;
+  }
+    .flip-container{
+      /*font-family: 'Open Sans', sans-serif;*/
+      font-weight: normal;
+      font-size: 14px;
+      float: left;
+      margin: 0.5em;
+      -webkit-perspective: 1000px;
+      -o-perspective: 1000px;
+      perspective: 1000px;
+      position: relative;
+      transition: width .20s;
+      
+    }
+    .flip-container,.front,.back{
+       width: 220px;
+       min-height: 150px;
+       border-radius: 4px;
+       background: #fff;
+
+    }
+    .front,.back{
+      box-shadow: 0 0 2px #444;
+      -webkit-backface-visibility: hidden;
+      -moz-backface-visibility: hidden;
+      -o-backface-visibility: hidden;
+      backface-visibility: hidden;
+      position: absolute;
+      top: 0;
+      left: 0;
+      overflow: hidden;
+
+    }
+    .flip{
+      -webkit-backface-visibility: hidden;
+      -moz-backface-visibility: hidden;
+      -o-backface-visibility: hidden;
+      backface-visibility: hidden;
+      
+    }
+    .flipper,.flip{
+      -webkit-transition: 0.6s;
+      -webkit-transform-style: preserve-3d;
+
+      -moz-transition: 0.6s;
+      -moz-transform-style: preserve-3d;
+      
+      -o-transition: 0.6s;
+      -o-transform-style: preserve-3d;
+
+      transition: 0.6s;
+      transform-style: preserve-3d;
+
+      position: relative;
+      
+    }
+    .flip-container .flipper{
+      -webkit-transform: rotateY(180deg);
+      -moz-transform: rotateY(180deg);
+      -o-transform: rotateY(180deg);
+      transform: rotateY(180deg);
+    }
+    .front{
+      z-index: 2;
+      
+    }
+    .back{
+      -webkit-transform: rotateY(180deg);
+      -moz-transform: rotateY(180deg);
+      -o-transform: rotateY(180deg);
+      transform: rotateY(180deg);
+      font-size: 10pt;
+      text-align: justify;
+      line-height: 1.7em;
+      letter-spacing: .2px;
+      color: #666;
+      
+    }
+    .content,.attributes{
+      padding: 1em;
+    }
+    .back>.content{
+      padding-bottom: 0;
+      text-align: center;
+      font-size: 1.1em;
+      vertical-align: center;
+    }
+    .attributes{
+      padding-top: 0;
+    }
+    .content>h2{
+      margin: 0;
+      font-size: 1.2em;
+    }
+    .icon-host{
+      padding: .5em;
+      position: relative;
+      
+    }
+    .icon-host:before{
+
+      content:"";
+      position: absolute;
+      width: 120%;
+      border-bottom: 1px solid #444;
+      left:-18px;
+
+      top: 50px;
+    }
+    .icon-host>img{
+      background: #448AFF;
+      display: block;
+      position: relative;
+      width: 80px;
+      height: 80px;
+      margin: auto;
+      border: 2px solid #444;
+      border-radius: 100%;
+      
+    }
+    .front>header{
+      
+      
+
+    }
+    .attributes{
+      font-size: 1em;
+      color: #5a5c5b;
+    }
+    h2{
+      color: #212121;
+    }
+  </style>
+  <div class="flip-container">
+    <div class="flip">
+      <div class="front">
+        <header>
+          <section class="content">
+            <h2 horizontal center-justified layout></h2>
+            <div class="icon-host">
+              <img src="" alt="">
+            </div>
+          </section>
+        </header>
+        <div class="attributes">
+            
+        </div>
+      </div>
+      <div class="back" vertical center-justified layout>
+        <section class="content"></section>
+
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+    var thisDoc = document._currentScript?document._currentScript.ownerDocument:document.currentScript.ownerDocument;
+    var template = thisDoc.querySelector('#custom-card');
+    var proto = Object.create(HTMLElement.prototype, {
+    createdCallback: {
+      value: function() {
+        var clone = document.importNode(template.content, true);
+        var flip = clone.querySelector('.flip');
+
+        var srcIcon = this.getAttribute('icon');
+        clone.querySelector('.icon-host>img').src = srcIcon;
+
+        var title = this.getAttribute('title');
+        clone.querySelector('.content>h2').innerHTML=title;
+
+        var attributes = this.getAttribute('attributes');
+        var attrContent =  clone.querySelector('.attributes');
+        attrArr = attributes.split(',');
+        attrArr.forEach(function(value){
+            var div = document.createElement('div');
+            div.innerHTML = value;
+            attrContent.appendChild(div);
+
+        }); 
+        
+        var backText = this.getAttribute('back');
+        var backContent=clone.querySelector('.back>.content');        
+                backArr = backText.split(',');
+        backArr.forEach(function(value){
+            var div = document.createElement('div');
+            div.innerHTML = value;
+            backContent.appendChild(div);
+
+        }); 
+
+
+        var front =  clone.querySelector('.front');
+        var back =  clone.querySelector('.back');
+        var flipContainer =  clone.querySelector('.flip-container');
+        var height = parseInt(this.getAttribute('h'));
+        back.style.height = (150+(height*10))+"px";
+        front.style.height = (150+(height*10))+"px";
+        flipContainer.style.height = (150+(height*10))+"px";
+
+        flipContainer.onclick=function(){
+          flip.classList.toggle('flipper');
+
+        };
+        this.createShadowRoot().appendChild(clone);
+      }
+    }
+  });
+  document.registerElement('custom-card', {prototype: proto});
+</script>

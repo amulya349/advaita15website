@@ -1,0 +1,63 @@
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../core-media-query/core-media-query.html">
+<link rel="import" href="../core-menu-button/core-menu-button.html">
+<!-- <link rel="import" href="../core-icon-button/core-icon-button.html"> -->
+<link rel="import" href="../paper-menu-button/paper-menu-button.html">
+<link rel="import" href="../paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../core-dropdown/core-dropdown.html">
+<link rel="import" href="../core-menu/core-menu.html">
+<link rel="import" href="../core-toolbar/core-toolbar.html">
+<link rel="import" href="../core-drawer-panel/core-drawer-panel.html">
+<!--
+
+##### Example
+
+    <collapse-toolbar query="max-width: 500px">
+      <div flex class="logo">
+        <a href="#">
+          <img src="logo.png">
+        </a>
+      </div>
+      <a href="#">Quickstart</a>
+      <a href="#">CSS</a>
+      <a href="#">Components</a>
+    </collapse-toolbar>
+
+
+-->
+
+<polymer-element name="collapse-toolbar" attributes="query" noscript>
+  <template>
+    <link rel="stylesheet" href="collapse-toolbar.css">
+      
+      <div id="toolbar" layout horizontal center>
+      <!-- When smallScreen is true, hide the links... -->
+      <template if="{{smallScreen}}">
+    
+           <paper-menu-button>
+        <paper-icon-button icon="menu" id="trigger"></paper-icon-button>        
+        <core-dropdown class="dropdown" relatedTarget="{{$.trigger}}" inlineMenu valign="top">
+            <core-menu>
+              <content select=".mobile"></content>
+            </core-menu>
+          </core-dropdown>
+</paper-menu-button>
+ <content select=".logo" ></content>
+           
+
+      </template>
+      <!-- ...otherwise display them in the toolbar -->
+      <content></content>
+    </div>
+
+    <core-media-query
+      query="{{query}}"
+      queryMatches="{{smallScreen}}">
+    </core-media-query>
+      <content select=".logo"></content>
+
+  </template>
+</polymer-element>
+
+<!-- 
+  -->

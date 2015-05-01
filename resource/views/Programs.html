@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Blue Print Programs | Advaita</title>
+<meta charset="utf-8">
+    <meta property="og:type" content="Website" />
+    <meta property="og:image" content="http://goo.gl/n0eW15"/>
+
+<link rel="stylesheet" href="../../resource/public/stylesheets/b/reset.css" type="text/css" media="all">
+<link rel="stylesheet" href="../../resource/public/stylesheets/b/layout.css" type="text/css" media="all">
+<link rel="stylesheet" href="../../resource/public/stylesheets/b/style.css" type="text/css" media="all">
+<script type="text/javascript" src="../../resource/public/js/b/jquery-1.5.2.js" ></script>
+<script type="text/javascript" src="../../resource/public/js/b/cufon-yui.js"></script>
+<script type="text/javascript" src="../../resource/public/js/b/cufon-replace.js"></script>
+<script type="text/javascript" src="../../resource/public/js/b/Expletus_Sans_400.font.js"></script>
+<script type="text/javascript" src="../../resource/public/js/b/Molengo_400.font.js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="js/html5.js"></script>
+<style type="text/css">
+	.bg, .box2 {behavior:url(js/PIE.htc)}
+</style>
+<![endif]-->
+<!--[if lt IE 7]>
+	<div style=' clear: both; text-align:center; position: relative;'>
+		<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode">
+		<img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0"  alt="" /></a>
+	</div>
+<![endif]-->
+</head>
+<body id="page3">
+<div class="body1">
+	<div class="main">
+<!-- header -->
+		<header>
+			<div class="wrapper">
+				<nav>
+					<ul id="menu">
+						
+					</ul>
+				</nav>
+				
+			</div>
+			<div class="wrapper">
+				<h1><a href="index.html" id="logo">Learn Center</a></h1>
+			</div>
+			<div id="slogan">
+				Coding @ your mouse click!
+			</div>
+		</header>
+<!-- / header -->
+	</div>
+</div>
+<div class="body2">
+	<div class="main">
+<!-- content -->
+		<!-- <section id="content">
+			<div class="box1">
+				<div class="wrapper">
+					<article class="col2 pad_left2">
+						<div class="pad_left1">
+							<h2>Programs</h2>
+						</div>
+						<ul class="list1">
+							<li><a href="http://goo.gl/y80dzK" target="_blank">Program 1</a></li>
+							<li><a href="https://www.dropbox.com/s/jxmtztbev12dtle/prog2.pdf?dl=0" target="_blank">Program 2</a></li>
+							<li><a href="https://www.dropbox.com/s/65moe3jiaslgmp1/prog3.pdf?dl=0" target="_blank">Program 3</a></li>
+							<li><a href="#" target="_blank">Program 4</a>(Will be updated after certain time)</li>
+							
+						</ul>
+						<div style="height:300px;width:700px;float:left;margin:50px auto;padding:50px;">
+							<textarea id="codes" style="height:90%;width:100%;border:2px solid black;"placeholder="Enter your code here" required></textarea>
+							<input id="lang" type="text" placeholder="Enter language" style="border:1px solid black"/>
+							<input type="button" value="Submit" onclick="codeSubmit();" />
+							<select id="sel" required>
+								<option>Program 1</option>
+								<option>Program 2</option>
+								<option>Program 3</option>
+
+							</select>
+						</div>
+					</article>
+				</div>
+			</div>
+		</section> -->
+		<p style="text-align: center; color: red; font-size: 30px">Competition has Ended !!</p>
+	</div>
+</div>
+<style>
+	.list1{backgroun:red;width:450px;}
+	.list1 > a{float:left;}
+	.file{display:inline;margin-left:30px;}
+	.file_sub{display:inline;background:linear-gradient(rgb(255,214,86), rgb(255,133,7));padding:5px;cursor:pointer;background:-moz-linear-gradient(rgb(255,214,86), rgb(255,133,7));background:-webkit-linear-gradient(rgb(255,214,86), rgb(255,133,7));background:-o-linear-gradient(rgb(255,214,86), rgb(255,133,7));}
+</style>
+<script type="text/javascript">
+Cufon.now(); 
+	$(document).ready(function(){
+		loginCheck();
+	});
+	function codeSubmit() {
+
+		if(localStorage.user != ''){
+			var code1 = document.getElementById("codes").value;
+			var language = document.getElementById("lang").value;
+			var progno = document.getElementById('sel').options[document.getElementById("sel").selectedIndex].text;
+			var user = JSON.parse(localStorage.user);
+			if(code1 == "" || language == ""){
+				alert("Code or language is missing !!");
+				return;
+			}
+			$.post("/event/blueprintdata",
+		  {
+		  	userid : user._id,
+		    code:code1,
+		    lang:language,
+		    program : progno
+		  },
+		  function(data,status){
+		    if(status == 'success') {
+		      //successfully submitted the code
+		      alert("Code successfully submitted !!");
+		    }
+		  });
+		}
+		else{
+			alert("Are you Logged In?\nLogin at Advaita website first");
+		}
+	}
+
+	var loginCheck = function() {
+	  $.get("/loginCheck",function(data,status){
+	    if(status == 'success') {
+	      var person = JSON.stringify(data);
+	      localStorage.user = person;
+	    }
+	  });
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <script src="../app/bower_components/webcomponentsjs-0.5.1/webcomponents.js"></script>
+  <link rel="import" href="../app/bower_components/paper-icon-button/paper-icon-button.html">
+  <link rel="import" href="../app/bower_components/paper-button/paper-button.html">
+  <link rel="import" href="../app/bower_components/paper-input/paper-input-decorator.html">
+  <link rel="import" href="../app/bower_components/paper-tabs/paper-tabs.html">
+  <link rel="import" href="../app/bower_components/paper-tabs/paper-tab.html">
+  <link rel="import" href="../app/bower_components/font-roboto/roboto.html">
+  <link rel="import" href="../app/bower_components/paper-shadow/paper-shadow.html">
+  <link rel="import" href="../app/bower_components/paper-toast/paper-toast.html">
+  <script src="../public/js/jquery-2.1.3.min.js"></script>
+  <title>Advaita'15 Registration</title>
+
+  <style>
+    body{
+      font-family: RobotoDraft;
+      font-size: 16px;
+      /*background-color: #eee;*/
+    }
+    .regContainer{
+      width: 45%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      padding: 20px;
+    }
+    @media screen and (max-width: 440px){
+      .regContainer{
+      width: 90%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      padding: 20px;
+    }
+    }
+    paper-toast{
+      z-index: 1300;
+      background: #000;
+    }
+  </style>
+</head>
+<body>
+<!-- <img src="../public/img/1clean.png" height="500" width="420" style="opacity: 0.2;position: absolute;margin-left:30%"> -->
+  <paper-tabs selected=0 style="background-color: #000;color:#fff">
+    <paper-tab>Registration</paper-tab>
+  </paper-tabs>
+  <paper-shadow class="regContainer" center-justified layout>
+    <div>
+      <paper-input-decorator id="userid" label="First Name" floatingLabel>
+        <input id="fname" type="text" is="core-input">
+      </paper-input-decorator>
+      <paper-input-decorator id="userid" label="Last Name" floatingLabel>
+        <input id="lname" type="text" is="core-input">
+      </paper-input-decorator>
+    </div>
+    <paper-input-decorator id="userid" label="Email" floatingLabel>
+      <input id="email" type="text" is="core-input">
+    </paper-input-decorator>
+    <paper-input-decorator id="userid" label="College" floatingLabel>
+      <input id="college" type="text" is="core-input">
+    </paper-input-decorator>
+    <div horizontal layout justified>
+      <paper-input-decorator id="userid" label="Degree" floatingLabel>
+        <input id="degree" type="text" is="core-input">
+      </paper-input-decorator>
+      <paper-input-decorator id="userid" label="Year Of Study" floatingLabel>
+        <input id="year" type="text" is="core-input">
+      </paper-input-decorator>
+    </div>
+    <div horizontal layout justified>
+      <paper-input-decorator id="userid" label="City" floatingLabel>
+        <input id="city" type="text" is="core-input">
+      </paper-input-decorator>
+      <paper-input-decorator id="userid" label="Phone Number"  floatingLabel>
+        <input id="mobile" type="text" is="core-input">
+      </paper-input-decorator>
+    </div>
+    <br><br>
+    <paper-button style="background-color: #000;color:#fff;width:25%" raised horizontal center-justified layout id="submit" onclick="signUp();">Register</paper-button>
+  </paper-shadow>
+  <paper-toast text={{alert}}></paper-toast>
+
+  <script type="text/javascript" src="../public/js/registration.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+  "name": "restfulapi",
+  "version": "0.0.0",
+  "homepage": "https://github.com/amulya349/advaita15website",
+  "authors": [
+    "Ashish <itsashis4u@gmail.com>", 
+    "Amulya <amulya349@gmail.com"
+  ],
+  "description": "Website of Advaita15",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "advaita",
+    "node",
+    "express",
+    "rest",
+    "api",
+    "iiit",
+    "bh"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.2",
+    "core-elements": "Polymer/core-elements#~0.5.2",
+    "paper-elements": "Polymer/paper-elements#~0.5.2",
+    "google-map": "GoogleWebComponents/google-map#master"
+  }
+}

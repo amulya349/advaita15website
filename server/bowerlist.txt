@@ -1,0 +1,3698 @@
+bower check-new     Checking for new versions of the project dependencies..
+restfulapi#0.0.0 /home/ashish/Desktop/restfulapi
+├── core-ajax#0.5.2 extraneous
+├─┬ core-elements#0.5.2
+│ ├─┬ core-ajax#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-animated-pages#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ ├─┬ core-selector#0.5.2
+│ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-style#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-transition#0.5.2
+│ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-animation#0.5.2
+│ │ ├── polymer#0.5.2
+│ │ └── web-animations-js#1.0.1 (latest is 1.0.4)
+│ ├─┬ core-collapse#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-doc-viewer#0.5.2
+│ │ ├─┬ context-free-parser#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── core-ajax#0.5.2
+│ │ ├─┬ core-header-panel#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-item#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-menu#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-item#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-selector#0.5.2
+│ │ │   ├─┬ core-selection#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-toolbar#0.5.2
+│ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-media-query#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ marked-element#0.5.2
+│ │ │ ├── marked#0.3.2
+│ │ │ └── polymer#0.5.2
+│ │ └─┬ prettify-element#0.5.2
+│ │   ├── google-code-prettify#1.0.3
+│ │   └── polymer#0.5.2
+│ ├─┬ core-docs#0.5.2
+│ │ └─┬ core-doc-viewer#0.5.2
+│ │   ├─┬ context-free-parser#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   ├── core-ajax#0.5.2
+│ │   ├─┬ core-header-panel#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   ├─┬ core-icon-button#0.5.2
+│ │   │ └─┬ core-icons#0.5.2
+│ │   │   ├─┬ core-icon#0.5.2
+│ │   │   │ └─┬ core-iconset#0.5.2
+│ │   │   │   ├─┬ core-meta#0.5.2
+│ │   │   │   │ └── polymer#0.5.2
+│ │   │   │   └── polymer#0.5.2
+│ │   │   ├─┬ core-iconset-svg#0.5.2
+│ │   │   │ ├─┬ core-iconset#0.5.2
+│ │   │   │ │ ├── core-icon#0.5.2
+│ │   │   │ │ ├─┬ core-meta#0.5.2
+│ │   │   │ │ │ └── polymer#0.5.2
+│ │   │   │ │ └── polymer#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ core-icons#0.5.2
+│ │   │ ├─┬ core-icon#0.5.2
+│ │   │ │ └─┬ core-iconset#0.5.2
+│ │   │ │   ├─┬ core-meta#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ ├── core-icon#0.5.2
+│ │   │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   ├─┬ core-item#0.5.2
+│ │   │ ├─┬ core-icon#0.5.2
+│ │   │ │ ├─┬ core-icons#0.5.2
+│ │   │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └─┬ core-iconset#0.5.2
+│ │   │ │   ├─┬ core-meta#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ └─┬ core-icons#0.5.2
+│ │   │   ├─┬ core-icon#0.5.2
+│ │   │   │ └─┬ core-iconset#0.5.2
+│ │   │   │   ├─┬ core-meta#0.5.2
+│ │   │   │   │ └── polymer#0.5.2
+│ │   │   │   └── polymer#0.5.2
+│ │   │   ├─┬ core-iconset-svg#0.5.2
+│ │   │   │ ├─┬ core-iconset#0.5.2
+│ │   │   │ │ ├── core-icon#0.5.2
+│ │   │   │ │ ├─┬ core-meta#0.5.2
+│ │   │   │ │ │ └── polymer#0.5.2
+│ │   │   │ │ └── polymer#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ core-menu#0.5.2
+│ │   │ ├─┬ core-collapse#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ ├─┬ core-item#0.5.2
+│ │   │ │ ├─┬ core-icon#0.5.2
+│ │   │ │ │ ├─┬ core-icons#0.5.2
+│ │   │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └─┬ core-iconset#0.5.2
+│ │   │ │ │   ├─┬ core-meta#0.5.2
+│ │   │ │ │   │ └── polymer#0.5.2
+│ │   │ │ │   └── polymer#0.5.2
+│ │   │ │ └─┬ core-icons#0.5.2
+│ │   │ │   ├─┬ core-icon#0.5.2
+│ │   │ │   │ └─┬ core-iconset#0.5.2
+│ │   │ │   │   ├─┬ core-meta#0.5.2
+│ │   │ │   │   │ └── polymer#0.5.2
+│ │   │ │   │   └── polymer#0.5.2
+│ │   │ │   ├─┬ core-iconset-svg#0.5.2
+│ │   │ │   │ ├─┬ core-iconset#0.5.2
+│ │   │ │   │ │ ├── core-icon#0.5.2
+│ │   │ │   │ │ ├─┬ core-meta#0.5.2
+│ │   │ │   │ │ │ └── polymer#0.5.2
+│ │   │ │   │ │ └── polymer#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ └─┬ core-selector#0.5.2
+│ │   │   ├─┬ core-selection#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ core-toolbar#0.5.2
+│ │   │ ├─┬ core-icon-button#0.5.2
+│ │   │ │ └─┬ core-icons#0.5.2
+│ │   │ │   ├─┬ core-icon#0.5.2
+│ │   │ │   │ └─┬ core-iconset#0.5.2
+│ │   │ │   │   ├─┬ core-meta#0.5.2
+│ │   │ │   │   │ └── polymer#0.5.2
+│ │   │ │   │   └── polymer#0.5.2
+│ │   │ │   ├─┬ core-iconset-svg#0.5.2
+│ │   │ │   │ ├─┬ core-iconset#0.5.2
+│ │   │ │   │ │ ├── core-icon#0.5.2
+│ │   │ │   │ │ ├─┬ core-meta#0.5.2
+│ │   │ │   │ │ │ └── polymer#0.5.2
+│ │   │ │   │ │ └── polymer#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ └─┬ core-media-query#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ marked-element#0.5.2
+│ │   │ ├── marked#0.3.2
+│ │   │ └── polymer#0.5.2
+│ │   └─┬ prettify-element#0.5.2
+│ │     ├── google-code-prettify#1.0.3
+│ │     └── polymer#0.5.2
+│ ├── core-drag-drop#0.5.2
+│ ├─┬ core-drawer-panel#0.5.2
+│ │ ├─┬ core-media-query#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └─┬ core-selector#0.5.2
+│ │   ├─┬ core-selection#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ core-dropdown#0.5.2
+│ │ ├─┬ core-collapse#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-overlay#0.5.2
+│ │ │ ├── core-resizable#0.5.2
+│ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-dropdown-menu#0.5.2
+│ │ ├─┬ core-a11y-keys#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-collapse#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-dropdown#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-overlay#0.5.2
+│ │ │ │ ├── core-resizable#0.5.2
+│ │ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-focusable#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-item#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-menu#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-item#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-selector#0.5.2
+│ │ │   ├─┬ core-selection#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-field#0.5.0
+│ │ └── polymer#0.5.2
+│ ├─┬ core-header-panel#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-icon-button#0.5.2
+│ │ └─┬ core-icons#0.5.2
+│ │   ├─┬ core-icon#0.5.2
+│ │   │ └─┬ core-iconset#0.5.2
+│ │   │   ├─┬ core-meta#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ core-iconset-svg#0.5.2
+│ │   │ ├─┬ core-iconset#0.5.2
+│ │   │ │ ├── core-icon#0.5.2
+│ │   │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ core-icons#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-image#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-input#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-item#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ └─┬ core-icons#0.5.2
+│ │   ├─┬ core-icon#0.5.2
+│ │   │ └─┬ core-iconset#0.5.2
+│ │   │   ├─┬ core-meta#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ core-iconset-svg#0.5.2
+│ │   │ ├─┬ core-iconset#0.5.2
+│ │   │ │ ├── core-icon#0.5.2
+│ │   │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ core-label#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-layout-grid#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-layout-trbl#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-list#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ ├─┬ core-selection#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-localstorage#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-media-query#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-menu#0.5.2
+│ │ ├─┬ core-collapse#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-item#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ └─┬ core-selector#0.5.2
+│ │   ├─┬ core-selection#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ core-menu-button#0.5.2
+│ │ ├─┬ core-a11y-keys#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-collapse#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-dropdown#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-overlay#0.5.2
+│ │ │ │ ├── core-resizable#0.5.2
+│ │ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-item#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-menu#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-item#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-selector#0.5.2
+│ │ │   ├─┬ core-selection#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-meta#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-overlay#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ ├─┬ core-transition#0.5.2
+│ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-pages#0.5.2
+│ │ └─┬ core-selector#0.5.2
+│ │   ├─┬ core-selection#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ core-range#0.5.2
+│ │ ├─┬ core-input#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-scaffold#0.5.2
+│ │ ├─┬ core-drawer-panel#0.5.2
+│ │ │ ├─┬ core-media-query#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-selector#0.5.2
+│ │ │   ├─┬ core-selection#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-header-panel#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ └─┬ core-toolbar#0.5.2
+│ │   ├─┬ core-icon-button#0.5.2
+│ │   │ └─┬ core-icons#0.5.2
+│ │   │   ├─┬ core-icon#0.5.2
+│ │   │   │ └─┬ core-iconset#0.5.2
+│ │   │   │   ├─┬ core-meta#0.5.2
+│ │   │   │   │ └── polymer#0.5.2
+│ │   │   │   └── polymer#0.5.2
+│ │   │   ├─┬ core-iconset-svg#0.5.2
+│ │   │   │ ├─┬ core-iconset#0.5.2
+│ │   │   │ │ ├── core-icon#0.5.2
+│ │   │   │ │ ├─┬ core-meta#0.5.2
+│ │   │   │ │ │ └── polymer#0.5.2
+│ │   │   │ │ └── polymer#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   └─┬ core-media-query#0.5.2
+│ │     └── polymer#0.5.2
+│ ├─┬ core-scroll-header-panel#0.5.2
+│ │ ├─┬ core-field#0.5.0
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-input#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-media-query#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ └─┬ core-toolbar#0.5.2
+│ │   ├─┬ core-icon-button#0.5.2
+│ │   │ └─┬ core-icons#0.5.2
+│ │   │   ├─┬ core-icon#0.5.2
+│ │   │   │ └─┬ core-iconset#0.5.2
+│ │   │   │   ├─┬ core-meta#0.5.2
+│ │   │   │   │ └── polymer#0.5.2
+│ │   │   │   └── polymer#0.5.2
+│ │   │   ├─┬ core-iconset-svg#0.5.2
+│ │   │   │ ├─┬ core-iconset#0.5.2
+│ │   │   │ │ ├── core-icon#0.5.2
+│ │   │   │ │ ├─┬ core-meta#0.5.2
+│ │   │   │ │ │ └── polymer#0.5.2
+│ │   │   │ │ └── polymer#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   └─┬ core-media-query#0.5.2
+│ │     └── polymer#0.5.2
+│ ├── core-scroll-threshold#0.5.2
+│ ├─┬ core-selection#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-selector#0.5.2
+│ │ ├─┬ core-selection#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-shared-lib#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-signals#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-splitter#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-style#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-tests#0.5.2
+│ │ └── polymer-test-tools#0.5.2
+│ ├─┬ core-toolbar#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ └─┬ core-media-query#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ core-tooltip#0.5.2
+│ │ ├─┬ core-focusable#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ ├─┬ paper-fab#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-transition#0.5.2
+│ │ ├─┬ core-meta#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├── polymer#0.5.2
+│ └─┬ sampler-scaffold#0.5.2
+│   ├─┬ core-drawer-panel#0.5.2
+│   │ ├─┬ core-media-query#0.5.2
+│   │ │ └── polymer#0.5.2
+│   │ └─┬ core-selector#0.5.2
+│   │   ├─┬ core-selection#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   ├─┬ core-header-panel#0.5.2
+│   │ └── polymer#0.5.2
+│   ├─┬ core-icon-button#0.5.2
+│   │ └─┬ core-icons#0.5.2
+│   │   ├─┬ core-icon#0.5.2
+│   │   │ └─┬ core-iconset#0.5.2
+│   │   │   ├─┬ core-meta#0.5.2
+│   │   │   │ └── polymer#0.5.2
+│   │   │   └── polymer#0.5.2
+│   │   ├─┬ core-iconset-svg#0.5.2
+│   │   │ ├─┬ core-iconset#0.5.2
+│   │   │ │ ├── core-icon#0.5.2
+│   │   │ │ ├─┬ core-meta#0.5.2
+│   │   │ │ │ └── polymer#0.5.2
+│   │   │ │ └── polymer#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   ├─┬ core-item#0.5.2
+│   │ ├─┬ core-icon#0.5.2
+│   │ │ ├─┬ core-icons#0.5.2
+│   │ │ │ ├─┬ core-iconset-svg#0.5.2
+│   │ │ │ │ ├─┬ core-iconset#0.5.2
+│   │ │ │ │ │ ├─┬ core-meta#0.5.2
+│   │ │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ └── polymer#0.5.2
+│   │ │ │ └── polymer#0.5.2
+│   │ │ └─┬ core-iconset#0.5.2
+│   │ │   ├─┬ core-meta#0.5.2
+│   │ │   │ └── polymer#0.5.2
+│   │ │   └── polymer#0.5.2
+│   │ └─┬ core-icons#0.5.2
+│   │   ├─┬ core-icon#0.5.2
+│   │   │ └─┬ core-iconset#0.5.2
+│   │   │   ├─┬ core-meta#0.5.2
+│   │   │   │ └── polymer#0.5.2
+│   │   │   └── polymer#0.5.2
+│   │   ├─┬ core-iconset-svg#0.5.2
+│   │   │ ├─┬ core-iconset#0.5.2
+│   │   │ │ ├── core-icon#0.5.2
+│   │   │ │ ├─┬ core-meta#0.5.2
+│   │   │ │ │ └── polymer#0.5.2
+│   │   │ │ └── polymer#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   ├─┬ core-menu#0.5.2
+│   │ ├─┬ core-collapse#0.5.2
+│   │ │ └── polymer#0.5.2
+│   │ ├─┬ core-item#0.5.2
+│   │ │ ├─┬ core-icon#0.5.2
+│   │ │ │ ├─┬ core-icons#0.5.2
+│   │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│   │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│   │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│   │ │ │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ └── polymer#0.5.2
+│   │ │ │ └─┬ core-iconset#0.5.2
+│   │ │ │   ├─┬ core-meta#0.5.2
+│   │ │ │   │ └── polymer#0.5.2
+│   │ │ │   └── polymer#0.5.2
+│   │ │ └─┬ core-icons#0.5.2
+│   │ │   ├─┬ core-icon#0.5.2
+│   │ │   │ └─┬ core-iconset#0.5.2
+│   │ │   │   ├─┬ core-meta#0.5.2
+│   │ │   │   │ └── polymer#0.5.2
+│   │ │   │   └── polymer#0.5.2
+│   │ │   ├─┬ core-iconset-svg#0.5.2
+│   │ │   │ ├─┬ core-iconset#0.5.2
+│   │ │   │ │ ├── core-icon#0.5.2
+│   │ │   │ │ ├─┬ core-meta#0.5.2
+│   │ │   │ │ │ └── polymer#0.5.2
+│   │ │   │ │ └── polymer#0.5.2
+│   │ │   │ └── polymer#0.5.2
+│   │ │   └── polymer#0.5.2
+│   │ └─┬ core-selector#0.5.2
+│   │   ├─┬ core-selection#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   └─┬ core-toolbar#0.5.2
+│     ├─┬ core-icon-button#0.5.2
+│     │ └─┬ core-icons#0.5.2
+│     │   ├─┬ core-icon#0.5.2
+│     │   │ └─┬ core-iconset#0.5.2
+│     │   │   ├─┬ core-meta#0.5.2
+│     │   │   │ └── polymer#0.5.2
+│     │   │   └── polymer#0.5.2
+│     │   ├─┬ core-iconset-svg#0.5.2
+│     │   │ ├─┬ core-iconset#0.5.2
+│     │   │ │ ├── core-icon#0.5.2
+│     │   │ │ ├─┬ core-meta#0.5.2
+│     │   │ │ │ └── polymer#0.5.2
+│     │   │ │ └── polymer#0.5.2
+│     │   │ └── polymer#0.5.2
+│     │   └── polymer#0.5.2
+│     └─┬ core-media-query#0.5.2
+│       └── polymer#0.5.2
+├─┬ paper-elements#0.5.2
+│ ├─┬ core-icons#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ core-scroll-header-panel#0.5.2
+│ │ ├─┬ core-field#0.5.0
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon-button#0.5.2
+│ │ │ └─┬ core-icons#0.5.2
+│ │ │   ├─┬ core-icon#0.5.2
+│ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │   │   │ └── polymer#0.5.2
+│ │ │   │   └── polymer#0.5.2
+│ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │   │ │ ├── core-icon#0.5.2
+│ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │   │ │ │ └── polymer#0.5.2
+│ │ │   │ │ └── polymer#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-input#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-media-query#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ └─┬ core-toolbar#0.5.2
+│ │   ├─┬ core-icon-button#0.5.2
+│ │   │ └─┬ core-icons#0.5.2
+│ │   │   ├─┬ core-icon#0.5.2
+│ │   │   │ └─┬ core-iconset#0.5.2
+│ │   │   │   ├─┬ core-meta#0.5.2
+│ │   │   │   │ └── polymer#0.5.2
+│ │   │   │   └── polymer#0.5.2
+│ │   │   ├─┬ core-iconset-svg#0.5.2
+│ │   │   │ ├─┬ core-iconset#0.5.2
+│ │   │   │ │ ├── core-icon#0.5.2
+│ │   │   │ │ ├─┬ core-meta#0.5.2
+│ │   │   │ │ │ └── polymer#0.5.2
+│ │   │   │ │ └── polymer#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   └─┬ core-media-query#0.5.2
+│ │     └── polymer#0.5.2
+│ ├── font-roboto#0.5.2
+│ ├─┬ paper-button#0.5.2
+│ │ ├─┬ core-focusable#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ paper-ripple#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── font-roboto#0.5.2
+│ │ ├─┬ paper-shadow#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-checkbox#0.5.2
+│ │ ├─┬ core-label#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── font-roboto#0.5.2
+│ │ └─┬ paper-radio-button#0.5.2
+│ │   ├─┬ core-a11y-keys#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └─┬ paper-ripple#0.5.2
+│ │     ├─┬ core-icon#0.5.2
+│ │     │ ├─┬ core-icons#0.5.2
+│ │     │ │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └─┬ core-iconset#0.5.2
+│ │     │   ├─┬ core-meta#0.5.2
+│ │     │   │ └── polymer#0.5.2
+│ │     │   └── polymer#0.5.2
+│ │     ├─┬ core-icons#0.5.2
+│ │     │ ├─┬ core-icon#0.5.2
+│ │     │ │ └─┬ core-iconset#0.5.2
+│ │     │ │   ├─┬ core-meta#0.5.2
+│ │     │ │   │ └── polymer#0.5.2
+│ │     │ │   └── polymer#0.5.2
+│ │     │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ ├── core-icon#0.5.2
+│ │     │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └── polymer#0.5.2
+│ │     └── font-roboto#0.5.2
+│ ├─┬ paper-dialog#0.5.2
+│ │ ├─┬ core-overlay#0.5.2
+│ │ │ ├── core-resizable#0.5.2
+│ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-transition#0.5.2
+│ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-button#0.5.2
+│ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-shadow#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-dropdown#0.5.2
+│ │ ├─┬ core-animation#0.5.2
+│ │ │ ├── polymer#0.5.2
+│ │ │ └── web-animations-js#1.0.1
+│ │ ├─┬ core-collapse#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-dropdown#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-overlay#0.5.2
+│ │ │ │ ├── core-resizable#0.5.2
+│ │ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-transition#0.5.2
+│ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-icon-button#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-item#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-selector#0.5.2
+│ │ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├── font-roboto#0.5.2
+│ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-shadow#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-dropdown-menu#0.5.2
+│ │ ├─┬ core-a11y-keys#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-collapse#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-focusable#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-menu#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-item#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-selector#0.5.2
+│ │ │   ├─┬ core-selection#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ paper-dropdown#0.5.2
+│ │ │ ├─┬ core-animation#0.5.2
+│ │ │ │ ├── polymer#0.5.2
+│ │ │ │ └── web-animations-js#1.0.1
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-dropdown#0.5.2
+│ │ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │ │   │   └── polymer#0.5.2
+│ │ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-overlay#0.5.2
+│ │ │ │ │ ├── core-resizable#0.5.2
+│ │ │ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-icon-button#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-item#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-selector#0.5.2
+│ │ │ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-item#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-selector#0.5.2
+│ │ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├── font-roboto#0.5.2
+│ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-shadow#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-fab#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-button#0.5.2
+│ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-ripple#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── font-roboto#0.5.2
+│ │ ├─┬ paper-shadow#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-icon-button#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-button#0.5.2
+│ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-ripple#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── font-roboto#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-input#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-input#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-style#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-item#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-selector#0.5.2
+│ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── font-roboto#0.5.2
+│ │ ├─┬ paper-button#0.5.2
+│ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-ripple#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── font-roboto#0.5.2
+│ │ ├─┬ paper-shadow#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-menu-button#0.5.2
+│ │ ├─┬ core-a11y-keys#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-collapse#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-dropdown#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-overlay#0.5.2
+│ │ │ │ ├── core-resizable#0.5.2
+│ │ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-menu#0.5.2
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-item#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-selector#0.5.2
+│ │ │   ├─┬ core-selection#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ paper-button#0.5.2
+│ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-dropdown#0.5.2
+│ │ │ ├─┬ core-animation#0.5.2
+│ │ │ │ ├── polymer#0.5.2
+│ │ │ │ └── web-animations-js#1.0.1
+│ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-dropdown#0.5.2
+│ │ │ │ ├─┬ core-collapse#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │ │   │   └── polymer#0.5.2
+│ │ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-overlay#0.5.2
+│ │ │ │ │ ├── core-resizable#0.5.2
+│ │ │ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-icon-button#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-item#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-selector#0.5.2
+│ │ │ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-icon-button#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ paper-item#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-selector#0.5.2
+│ │ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├── font-roboto#0.5.2
+│ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-progress#0.5.2
+│ │ ├─┬ core-range#0.5.2
+│ │ │ ├─┬ core-input#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └─┬ paper-button#0.5.2
+│ │   ├─┬ core-focusable#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   ├─┬ core-icon#0.5.2
+│ │   │ ├─┬ core-icons#0.5.2
+│ │   │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └─┬ core-iconset#0.5.2
+│ │   │   ├─┬ core-meta#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ paper-ripple#0.5.2
+│ │   │ ├─┬ core-icon#0.5.2
+│ │   │ │ ├─┬ core-icons#0.5.2
+│ │   │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └─┬ core-iconset#0.5.2
+│ │   │ │   ├─┬ core-meta#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ ├─┬ core-icons#0.5.2
+│ │   │ │ ├─┬ core-icon#0.5.2
+│ │   │ │ │ └─┬ core-iconset#0.5.2
+│ │   │ │ │   ├─┬ core-meta#0.5.2
+│ │   │ │ │   │ └── polymer#0.5.2
+│ │   │ │ │   └── polymer#0.5.2
+│ │   │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ ├── core-icon#0.5.2
+│ │   │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── font-roboto#0.5.2
+│ │   ├─┬ paper-shadow#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ paper-radio-button#0.5.2
+│ │ ├─┬ core-a11y-keys#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └─┬ paper-ripple#0.5.2
+│ │   ├─┬ core-icon#0.5.2
+│ │   │ ├─┬ core-icons#0.5.2
+│ │   │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └─┬ core-iconset#0.5.2
+│ │   │   ├─┬ core-meta#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ core-icons#0.5.2
+│ │   │ ├─┬ core-icon#0.5.2
+│ │   │ │ └─┬ core-iconset#0.5.2
+│ │   │ │   ├─┬ core-meta#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ ├── core-icon#0.5.2
+│ │   │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── font-roboto#0.5.2
+│ ├─┬ paper-radio-group#0.5.2
+│ │ ├─┬ core-a11y-keys#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-selector#0.5.2
+│ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── font-roboto#0.5.2
+│ │ └─┬ paper-radio-button#0.5.2
+│ │   ├─┬ core-a11y-keys#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └─┬ paper-ripple#0.5.2
+│ │     ├─┬ core-icon#0.5.2
+│ │     │ ├─┬ core-icons#0.5.2
+│ │     │ │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └─┬ core-iconset#0.5.2
+│ │     │   ├─┬ core-meta#0.5.2
+│ │     │   │ └── polymer#0.5.2
+│ │     │   └── polymer#0.5.2
+│ │     ├─┬ core-icons#0.5.2
+│ │     │ ├─┬ core-icon#0.5.2
+│ │     │ │ └─┬ core-iconset#0.5.2
+│ │     │ │   ├─┬ core-meta#0.5.2
+│ │     │ │   │ └── polymer#0.5.2
+│ │     │ │   └── polymer#0.5.2
+│ │     │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ ├── core-icon#0.5.2
+│ │     │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └── polymer#0.5.2
+│ │     └── font-roboto#0.5.2
+│ ├─┬ paper-ripple#0.5.2
+│ │ ├─┬ core-icon#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └─┬ core-iconset#0.5.2
+│ │ │   ├─┬ core-meta#0.5.2
+│ │ │   │ └── polymer#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └── font-roboto#0.5.2
+│ ├─┬ paper-shadow#0.5.2
+│ │ └── polymer#0.5.2
+│ ├─┬ paper-slider#0.5.2
+│ │ ├─┬ core-a11y-keys#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── font-roboto#0.5.2
+│ │ ├─┬ paper-input#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-input#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ core-style#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └─┬ paper-progress#0.5.2
+│ │   ├─┬ core-range#0.5.2
+│ │   │ ├─┬ core-input#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └─┬ paper-button#0.5.2
+│ │     ├─┬ core-focusable#0.5.2
+│ │     │ └── polymer#0.5.2
+│ │     ├─┬ core-icon#0.5.2
+│ │     │ ├─┬ core-icons#0.5.2
+│ │     │ │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └─┬ core-iconset#0.5.2
+│ │     │   ├─┬ core-meta#0.5.2
+│ │     │   │ └── polymer#0.5.2
+│ │     │   └── polymer#0.5.2
+│ │     ├─┬ paper-ripple#0.5.2
+│ │     │ ├─┬ core-icon#0.5.2
+│ │     │ │ ├─┬ core-icons#0.5.2
+│ │     │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └─┬ core-iconset#0.5.2
+│ │     │ │   ├─┬ core-meta#0.5.2
+│ │     │ │   │ └── polymer#0.5.2
+│ │     │ │   └── polymer#0.5.2
+│ │     │ ├─┬ core-icons#0.5.2
+│ │     │ │ ├─┬ core-icon#0.5.2
+│ │     │ │ │ └─┬ core-iconset#0.5.2
+│ │     │ │ │   ├─┬ core-meta#0.5.2
+│ │     │ │ │   │ └── polymer#0.5.2
+│ │     │ │ │   └── polymer#0.5.2
+│ │     │ │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ │ ├── core-icon#0.5.2
+│ │     │ │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └── font-roboto#0.5.2
+│ │     ├─┬ paper-shadow#0.5.2
+│ │     │ └── polymer#0.5.2
+│ │     └── polymer#0.5.2
+│ ├─┬ paper-spinner#0.5.2
+│ │ ├── polymer#0.5.2
+│ │ └── webcomponentsjs#0.5.2
+│ ├─┬ paper-tabs#0.5.2
+│ │ ├─┬ core-icons#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-media-query#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── core-resizable#0.5.2
+│ │ ├─┬ core-selector#0.5.2
+│ │ │ ├─┬ core-selection#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-toolbar#0.5.2
+│ │ │ ├─┬ core-icon-button#0.5.2
+│ │ │ │ └─┬ core-icons#0.5.2
+│ │ │ │   ├─┬ core-icon#0.5.2
+│ │ │ │   │ └─┬ core-iconset#0.5.2
+│ │ │ │   │   ├─┬ core-meta#0.5.2
+│ │ │ │   │   │ └── polymer#0.5.2
+│ │ │ │   │   └── polymer#0.5.2
+│ │ │ │   ├─┬ core-iconset-svg#0.5.2
+│ │ │ │   │ ├─┬ core-iconset#0.5.2
+│ │ │ │   │ │ ├── core-icon#0.5.2
+│ │ │ │   │ │ ├─┬ core-meta#0.5.2
+│ │ │ │   │ │ │ └── polymer#0.5.2
+│ │ │ │   │ │ └── polymer#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ └─┬ core-media-query#0.5.2
+│ │ │   └── polymer#0.5.2
+│ │ ├── font-roboto#0.5.2
+│ │ ├─┬ paper-icon-button#0.5.2
+│ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │   │ └── polymer#0.5.2
+│ │ │ │   └── polymer#0.5.2
+│ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-button#0.5.2
+│ │ │ │ ├─┬ core-focusable#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── font-roboto#0.5.2
+│ │ │ │ ├─┬ paper-shadow#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ ├─┬ paper-ripple#0.5.2
+│ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ ├─┬ core-icons#0.5.2
+│ │ │ │ │ ├─┬ core-icon#0.5.2
+│ │ │ │ │ │ └─┬ core-iconset#0.5.2
+│ │ │ │ │ │   ├─┬ core-meta#0.5.2
+│ │ │ │ │ │   │ └── polymer#0.5.2
+│ │ │ │ │ │   └── polymer#0.5.2
+│ │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │ │ │ │ │ │ ├── core-icon#0.5.2
+│ │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── font-roboto#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ └─┬ paper-ripple#0.5.2
+│ │   ├─┬ core-icon#0.5.2
+│ │   │ ├─┬ core-icons#0.5.2
+│ │   │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └─┬ core-iconset#0.5.2
+│ │   │   ├─┬ core-meta#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ core-icons#0.5.2
+│ │   │ ├─┬ core-icon#0.5.2
+│ │   │ │ └─┬ core-iconset#0.5.2
+│ │   │ │   ├─┬ core-meta#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ ├── core-icon#0.5.2
+│ │   │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── font-roboto#0.5.2
+│ ├─┬ paper-toast#0.5.2
+│ │ ├─┬ core-media-query#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├─┬ core-overlay#0.5.2
+│ │ │ ├── core-resizable#0.5.2
+│ │ │ ├─┬ core-transition#0.5.2
+│ │ │ │ ├─┬ core-meta#0.5.2
+│ │ │ │ │ └── polymer#0.5.2
+│ │ │ │ └── polymer#0.5.2
+│ │ │ └── polymer#0.5.2
+│ │ ├── font-roboto#0.5.2
+│ │ └─┬ paper-button#0.5.2
+│ │   ├─┬ core-focusable#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   ├─┬ core-icon#0.5.2
+│ │   │ ├─┬ core-icons#0.5.2
+│ │   │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └─┬ core-iconset#0.5.2
+│ │   │   ├─┬ core-meta#0.5.2
+│ │   │   │ └── polymer#0.5.2
+│ │   │   └── polymer#0.5.2
+│ │   ├─┬ paper-ripple#0.5.2
+│ │   │ ├─┬ core-icon#0.5.2
+│ │   │ │ ├─┬ core-icons#0.5.2
+│ │   │ │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └─┬ core-iconset#0.5.2
+│ │   │ │   ├─┬ core-meta#0.5.2
+│ │   │ │   │ └── polymer#0.5.2
+│ │   │ │   └── polymer#0.5.2
+│ │   │ ├─┬ core-icons#0.5.2
+│ │   │ │ ├─┬ core-icon#0.5.2
+│ │   │ │ │ └─┬ core-iconset#0.5.2
+│ │   │ │ │   ├─┬ core-meta#0.5.2
+│ │   │ │ │   │ └── polymer#0.5.2
+│ │   │ │ │   └── polymer#0.5.2
+│ │   │ │ ├─┬ core-iconset-svg#0.5.2
+│ │   │ │ │ ├─┬ core-iconset#0.5.2
+│ │   │ │ │ │ ├── core-icon#0.5.2
+│ │   │ │ │ │ ├─┬ core-meta#0.5.2
+│ │   │ │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ │ └── polymer#0.5.2
+│ │   │ │ │ └── polymer#0.5.2
+│ │   │ │ └── polymer#0.5.2
+│ │   │ └── font-roboto#0.5.2
+│ │   ├─┬ paper-shadow#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └── polymer#0.5.2
+│ ├─┬ paper-toggle-button#0.5.2
+│ │ ├── font-roboto#0.5.2
+│ │ └─┬ paper-radio-button#0.5.2
+│ │   ├─┬ core-a11y-keys#0.5.2
+│ │   │ └── polymer#0.5.2
+│ │   └─┬ paper-ripple#0.5.2
+│ │     ├─┬ core-icon#0.5.2
+│ │     │ ├─┬ core-icons#0.5.2
+│ │     │ │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └─┬ core-iconset#0.5.2
+│ │     │   ├─┬ core-meta#0.5.2
+│ │     │   │ └── polymer#0.5.2
+│ │     │   └── polymer#0.5.2
+│ │     ├─┬ core-icons#0.5.2
+│ │     │ ├─┬ core-icon#0.5.2
+│ │     │ │ └─┬ core-iconset#0.5.2
+│ │     │ │   ├─┬ core-meta#0.5.2
+│ │     │ │   │ └── polymer#0.5.2
+│ │     │ │   └── polymer#0.5.2
+│ │     │ ├─┬ core-iconset-svg#0.5.2
+│ │     │ │ ├─┬ core-iconset#0.5.2
+│ │     │ │ │ ├── core-icon#0.5.2
+│ │     │ │ │ ├─┬ core-meta#0.5.2
+│ │     │ │ │ │ └── polymer#0.5.2
+│ │     │ │ │ └── polymer#0.5.2
+│ │     │ │ └── polymer#0.5.2
+│ │     │ └── polymer#0.5.2
+│ │     └── font-roboto#0.5.2
+│ ├── polymer#0.5.2
+│ └─┬ sampler-scaffold#0.5.2
+│   ├─┬ core-drawer-panel#0.5.2
+│   │ ├─┬ core-media-query#0.5.2
+│   │ │ └── polymer#0.5.2
+│   │ └─┬ core-selector#0.5.2
+│   │   ├─┬ core-selection#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   ├─┬ core-header-panel#0.5.2
+│   │ └── polymer#0.5.2
+│   ├─┬ core-icon-button#0.5.2
+│   │ └─┬ core-icons#0.5.2
+│   │   ├─┬ core-icon#0.5.2
+│   │   │ └─┬ core-iconset#0.5.2
+│   │   │   ├─┬ core-meta#0.5.2
+│   │   │   │ └── polymer#0.5.2
+│   │   │   └── polymer#0.5.2
+│   │   ├─┬ core-iconset-svg#0.5.2
+│   │   │ ├─┬ core-iconset#0.5.2
+│   │   │ │ ├── core-icon#0.5.2
+│   │   │ │ ├─┬ core-meta#0.5.2
+│   │   │ │ │ └── polymer#0.5.2
+│   │   │ │ └── polymer#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   ├─┬ core-item#0.5.2
+│   │ ├─┬ core-icon#0.5.2
+│   │ │ ├─┬ core-icons#0.5.2
+│   │ │ │ ├─┬ core-iconset-svg#0.5.2
+│   │ │ │ │ ├─┬ core-iconset#0.5.2
+│   │ │ │ │ │ ├─┬ core-meta#0.5.2
+│   │ │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ └── polymer#0.5.2
+│   │ │ │ └── polymer#0.5.2
+│   │ │ └─┬ core-iconset#0.5.2
+│   │ │   ├─┬ core-meta#0.5.2
+│   │ │   │ └── polymer#0.5.2
+│   │ │   └── polymer#0.5.2
+│   │ └─┬ core-icons#0.5.2
+│   │   ├─┬ core-icon#0.5.2
+│   │   │ └─┬ core-iconset#0.5.2
+│   │   │   ├─┬ core-meta#0.5.2
+│   │   │   │ └── polymer#0.5.2
+│   │   │   └── polymer#0.5.2
+│   │   ├─┬ core-iconset-svg#0.5.2
+│   │   │ ├─┬ core-iconset#0.5.2
+│   │   │ │ ├── core-icon#0.5.2
+│   │   │ │ ├─┬ core-meta#0.5.2
+│   │   │ │ │ └── polymer#0.5.2
+│   │   │ │ └── polymer#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   ├─┬ core-menu#0.5.2
+│   │ ├─┬ core-collapse#0.5.2
+│   │ │ └── polymer#0.5.2
+│   │ ├─┬ core-item#0.5.2
+│   │ │ ├─┬ core-icon#0.5.2
+│   │ │ │ ├─┬ core-icons#0.5.2
+│   │ │ │ │ ├─┬ core-iconset-svg#0.5.2
+│   │ │ │ │ │ ├─┬ core-iconset#0.5.2
+│   │ │ │ │ │ │ ├─┬ core-meta#0.5.2
+│   │ │ │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ │ └── polymer#0.5.2
+│   │ │ │ │ └── polymer#0.5.2
+│   │ │ │ └─┬ core-iconset#0.5.2
+│   │ │ │   ├─┬ core-meta#0.5.2
+│   │ │ │   │ └── polymer#0.5.2
+│   │ │ │   └── polymer#0.5.2
+│   │ │ └─┬ core-icons#0.5.2
+│   │ │   ├─┬ core-icon#0.5.2
+│   │ │   │ └─┬ core-iconset#0.5.2
+│   │ │   │   ├─┬ core-meta#0.5.2
+│   │ │   │   │ └── polymer#0.5.2
+│   │ │   │   └── polymer#0.5.2
+│   │ │   ├─┬ core-iconset-svg#0.5.2
+│   │ │   │ ├─┬ core-iconset#0.5.2
+│   │ │   │ │ ├── core-icon#0.5.2
+│   │ │   │ │ ├─┬ core-meta#0.5.2
+│   │ │   │ │ │ └── polymer#0.5.2
+│   │ │   │ │ └── polymer#0.5.2
+│   │ │   │ └── polymer#0.5.2
+│   │ │   └── polymer#0.5.2
+│   │ └─┬ core-selector#0.5.2
+│   │   ├─┬ core-selection#0.5.2
+│   │   │ └── polymer#0.5.2
+│   │   └── polymer#0.5.2
+│   └─┬ core-toolbar#0.5.2
+│     ├─┬ core-icon-button#0.5.2
+│     │ └─┬ core-icons#0.5.2
+│     │   ├─┬ core-icon#0.5.2
+│     │   │ └─┬ core-iconset#0.5.2
+│     │   │   ├─┬ core-meta#0.5.2
+│     │   │   │ └── polymer#0.5.2
+│     │   │   └── polymer#0.5.2
+│     │   ├─┬ core-iconset-svg#0.5.2
+│     │   │ ├─┬ core-iconset#0.5.2
+│     │   │ │ ├── core-icon#0.5.2
+│     │   │ │ ├─┬ core-meta#0.5.2
+│     │   │ │ │ └── polymer#0.5.2
+│     │   │ │ └── polymer#0.5.2
+│     │   │ └── polymer#0.5.2
+│     │   └── polymer#0.5.2
+│     └─┬ core-media-query#0.5.2
+│       └── polymer#0.5.2
+└─┬ polymer#0.5.2
+  ├─┬ core-component-page#0.5.2
+  │ └── webcomponentsjs#0.5.2
+  └── webcomponentsjs#0.5.2

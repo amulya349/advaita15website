@@ -1,0 +1,227 @@
+html{
+height: 100%;
+overflow-y: hidden;
+}
+body{
+width: 100%;
+height: 100% !important;
+overflow-y: hidden;
+/*background: #23262C;*/
+margin: 0;
+font-family: RobotoDraft;
+font-weight: 300;
+}
+
+paper-button{
+line-height: 0.5;
+/*background: #00ccff;*/
+background: #48B4D6;
+}
+.logo img{
+height: 36px !important;
+top:2px !important;
+border: 2px solid white;
+
+}
+.logo img:hover{
+height: 36px !important;
+background: #fff;
+top:2px !important;
+border: 2px solid white;
+
+}
+core-item{
+	height: 36px !important;
+padding: 0 5px 0 5px !important;
+color: #fff;
+}
+
+core-item:hover{
+border: 1px solid white !important;
+
+/*-webkit-transform: scale(1.01);
+transform: scale(1.01);
+*/padding: 0 5px 0 5px !important;
+background: #fff;
+color: #7B7972;
+/*text-shadow: 1px 1px 10px #fff;*/
+border: none;
+}
+.button {
+display: inline-block;
+position: relative;
+width: 120px;
+height: 32px;
+line-height: 32px;
+border-radius: 2px;
+font-size: 0.9em;
+background-color: #fff;
+vertical-align: center;
+color: #646464;
+text-align: center !important;
+}
+
+.button > paper-ripple {
+border-radius: 2px;
+overflow: hidden;
+}
+.button.green {
+background-color: #0f9d58;
+color: #fff;
+}
+
+.button.raised {
+transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+transition-delay: 0.2s;
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+.button.raised:active {
+box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+transition-delay: 0s;
+}
+/*@media screen and (max-width:700px) {
+
+}*/
+#core_header_panel {
+width: 100%;
+height: 100% !important;
+/*left: 0px;*/
+top: 0px;
+overflow: hidden;
+position: fixed;
+}
+collapse-toolbar {
+color: rgb(255, 255, 255);
+opacity: 1;
+position: fixed;
+text-align: center;
+font-size: 18px;
+background: #23DEBF !important;
+/*background-color: rgb(79, 125, 201) !important;*/
+}
+#mainContainer{
+overflow: hidden !important;
+}
+/*.flip-container{
+-webkit-perspective: 1000;
+perspective:1000;
+}
+.flip-container:hover .flipper, .flip-container.hover .flipper{
+transform:rotateY(180deg);
+}
+.flip-container, .front, .back{
+width: calc(100%-400px);
+height: calc(100%-400px);
+}
+.flipper{
+transition:0.6s;
+}
+*/
+.fullpage{
+margin:60px 0 0;
+}
+.centerText{
+text-align: center;
+}
+#about{
+background: #00ccff;
+/*-webkit-transition-property: all;
+-webkit-transition-duration: .5s;
+-webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+-moz-transition-property: all;
+-moz-transition-duration: .5s;
+-moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+-ms-transition-property: all;
+-ms-transition-duration: .5s;
+-ms-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+transition-property: all;
+transition-duration: .5s;
+transition-timing-function: cubic-bezier(0, 1, 0.5, 1);*/
+}
+#events{
+background: green;
+/*-webkit-transition-property: all;
+-webkit-transition-duration: .5s;
+-webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+-moz-transition-property: all;
+-moz-transition-duration: .5s;
+-moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+-ms-transition-property: all;
+-ms-transition-duration: .5s;
+-ms-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+transition-property: all;
+transition-duration: .5s;
+transition-timing-function: cubic-bezier(0, 1, 0.5, 1);*/
+}
+#hospitality{
+background: aquamarine;
+/*-webkit-transition-property: all;
+-webkit-transition-duration: .5s;
+-webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+-moz-transition-property: all;
+-moz-transition-duration: .5s;
+-moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+-ms-transition-property: all;
+-ms-transition-duration: .5s;
+-ms-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+transition-property: all;
+transition-duration: .5s;
+transition-timing-function: cubic-bezier(0, 1, 0.5, 1);*/
+}
+
+.map-holder{
+	height: 40%;
+	width: 40%;
+	position: absolute;
+	bottom: 20%;
+	right:10%;
+}
+
+@media screen and (max-width:360px) {
+.map-holder{
+	height: 30%;
+	width: 60%;
+	position: absolute;
+	bottom: 20%;
+	right:10%;
+}
+}
+
+html /deep/ paper-action-dialog{
+padding: 50px
+}
+
+html /deep/ paper-button#fb-btn{
+	background: #415E9B;
+}
+html /deep/ paper-button{
+	color: #fff;
+	margin: 10px;
+	line-height: 0.5;
+	transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+transition-delay: 0.2s;
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+html /deep/ paper-button#gplus-btn{
+	background: #DD4B39;
+}
+
+html /deep/ paper-button#reg-btn{
+	background: #EB6841;
+}
+html /deep/ paper-button#login-btn{
+	background: #00A0B0;
+}
+
+html /deep/ .left{
+margin-right: 20px;
+
+border-right: 1px solid black;
+/*border-radius: 10px;*/
+}
+html /deep/ .right{
+	margin-left: 20px;
+/*border-right: 1px solid black;*/
+/*border-radius: 10px;*/
+}
