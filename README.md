@@ -1,19 +1,19 @@
 ADVAITA'15 | IIIT Bhubaneswar
 
                                                                                                    
-                                                                                                   
-                                     `                                                              
-                                      -          `.                                                
-                                       /`        +s.                                                
-                    ./        :+++/-   `+.      /sss`      /-   `+++++/      `/                    
-                   `yh:       ss``./+   `o.    :s:`oo`    `y/    ``y+``     `sh+                    
-                   y+-h:      ss    :/   .s-  -s/  `+o`   `y/      y+       os.y:                  
-                  sh+/sh-     ss    /h`   -s:.s+     ++   `y/      y+      +d+/od-                  
-                 os````/h.    sy::/ss.     :sso`      //   :/      y+     /y````-h-                
-                `-`     -.    .---.`        /o`        :/   `      -.     -`     ..                
-                                             `          --                                          
-                                                         ..                                        
-                                                          `                                        
+
+                                           `                                                              
+                                            -          `.                                                
+                                             /`        +s.                                                
+                          ./        :+++/-   `+.      /sss`      /-   `+++++/      `/                    
+                         `yh:       ss``./+   `o.    :s:`oo`    `y/    ``y+``     `sh+                    
+                         y+-h:      ss    :/   .s-  -s/  `+o`   `y/      y+       os.y:                  
+                        sh+/sh-     ss    /h`   -s:.s+     ++   `y/      y+      +d+/od-                  
+                       os````/h.    sy::/ss.     :sso`      //   :/      y+     /y````-h-                
+                      `-`     -.    .---.`        /o`        :/   `      -.     -`     ..                
+                                                   `          --                                          
+                                                               ..                                        
+                                                                `                                        
                                                                                                    
 
 # The humans responsible & technology colophon
