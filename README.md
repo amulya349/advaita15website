@@ -18,7 +18,7 @@ ADVAITA'15 | IIIT Bhubaneswar
 
 # The humans responsible & technology colophon
 
-# TEAM
+## TEAM
 
     Developer:Amulya Kumar Sahoo
     Contact: amulya349 [at] gmail.com
@@ -35,7 +35,7 @@ ADVAITA'15 | IIIT Bhubaneswar
     From: IIIT Bhubaneswar, India
  
 
-# TECHNOLOGY COLOPHON
+## TECHNOLOGY COLOPHON
 
     HTML5, CSS3, SVG
     Polymer, jQuery, Bootstrap,
